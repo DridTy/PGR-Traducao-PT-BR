@@ -26,7 +26,6 @@
 
 **Punishing: Gray Raven em português brasileiro, diretamente dentro do jogo.**
 
-> **Preparação do primeiro lançamento:** a apresentação do projeto já está disponível. O botão de download passará a funcionar assim que o pacote completo for publicado na seção de versões.
 
 O **PGR Localizer** é um instalador comunitário desenvolvido por **DridTy** para aplicar a tradução ao cliente global da Steam. O projeto abrange história, menus, descrições e interações dos personagens, com expansão e revisão contínuas.
 
