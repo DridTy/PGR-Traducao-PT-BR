@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/IDIOMA-PT--BR-e91b46?style=for-the-badge" alt="Idioma: português brasileiro">
-  <img src="https://img.shields.io/badge/HISTÓRIA-ATÉ_O_CAPÍTULO_21-008ed6?style=for-the-badge" alt="História: até o capítulo 21 nos roteiros mapeados">
+  <img src="https://img.shields.io/badge/HISTÓRIA-ATÉ_O_CAPÍTULO_29-008ed6?style=for-the-badge" alt="História: até o capítulo 29 nos roteiros mapeados">
   <img src="https://img.shields.io/badge/PROJETO-EM_DESENVOLVIMENTO-292b35?style=for-the-badge" alt="Projeto em desenvolvimento">
 </p>
 
@@ -35,16 +35,16 @@ A tradução é aplicada aos arquivos locais do jogo. Não depende de reconhecim
 
 | Conteúdo | Cobertura desta primeira versão |
 | :--- | :--- |
-| Prólogo e história principal | Roteiros mapeados do prólogo e dos capítulos **1 a 21** |
-| Último capítulo incluído | **21 — Espiral de Cronos** |
+| Prólogo e história principal | Roteiros mapeados do prólogo e dos capítulos **1 a 29** |
+| Último capítulo incluído | **29 "Source Beacon"** |
 | Saudações e afinidade | Cobertura ampliada das falas dos personagens |
 | Interações e obtenção | Falas de toque, ociosidade, entrada do Constructo e outras interações |
 | Evolução e equipe | Falas de melhorias, equipamentos, formação e liderança com cobertura ampliada |
 | Missões e combate | Falas durante missões e de missão concluída com cobertura ampliada |
 | Interface e descrições | Menus, perfis resumidos, carregamentos e descrições selecionadas |
-| Capítulos 22 em diante | Ainda fora da cobertura anunciada |
+| Capítulos 29 em diante | Ainda fora da cobertura anunciada |
 
-**O capítulo 21 inclui seu último roteiro narrativo mapeado.** Isso não significa que todos os recursos associados a esses capítulos estejam traduzidos: vídeos, imagens com texto e algumas falas durante as missões podem continuar no idioma original.
+**O capítulo 28 inclui seu último roteiro narrativo mapeado.** Isso não significa que todos os recursos associados a esses capítulos estejam traduzidos: vídeos, imagens com texto e algumas falas durante as missões podem continuar no idioma original.
 
 > **Tradução parcial em desenvolvimento.** Há textos produzidos com auxílio de tradução automática e ainda sujeitos a revisão. Eventos, histórias secundárias, perfis extensos e outros conteúdos não estão integralmente cobertos. Podem ocorrer termos inconsistentes, frases pouco naturais ou textos que ultrapassem o espaço da interface.
 
