@@ -5,7 +5,7 @@
 <h1 align="center">PGR Localizer 🇧🇷</h1>
 
 <p align="center">
-  <strong>TRADUÇÃO COMUNITÁRIA · PORTUGUÊS BRASILEIRO · WINDOWS · STEAM GLOBAL</strong>
+  <strong>TRADUÇÃO LIVRE E GRATUITA   · PORTUGUÊS BRASILEIRO · WINDOWS · STEAM GLOBAL</strong>
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 **Punishing: Gray Raven em português brasileiro, diretamente dentro do jogo.**
 
-O **PGR Localizer** é um instalador comunitário desenvolvido por **DridTy**. Ele aplica a tradução aos arquivos locais do cliente global da Steam. **As vozes e os vídeos permanecem originais.**
+O **PGR Localizer** é um instalador desenvolvido por **DridTy**. Ele aplica a tradução aos arquivos locais do cliente global da Steam. **As vozes e os vídeos permanecem originais.**
 
 A **1.0 Beta 4** acrescenta legendas para 11 cenas de Lembranças, incluindo **Brilho Residual (Afterglow)**, **Estrelas e Bolhas** e as três **Cortinas**. Também traduz a aba **Quadrinhos Animados**, títulos selecionados e os botões e avisos do reprodutor.
 
