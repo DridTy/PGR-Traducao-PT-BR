@@ -10,8 +10,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/IDIOMA-PT--BR-e91b46?style=for-the-badge" alt="Idioma: português brasileiro">
-  <img src="https://img.shields.io/badge/HISTÓRIA-ATÉ_O_CAPÍTULO_29-008ed6?style=for-the-badge" alt="História: até o capítulo 29 nos roteiros mapeados">
-  <img src="https://img.shields.io/badge/PROJETO-EM_DESENVOLVIMENTO-292b35?style=for-the-badge" alt="Projeto em desenvolvimento">
+  <img src="https://img.shields.io/badge/HIST%C3%93RIA-AT%C3%89_O_CAP%C3%8DTULO_44-008ed6?style=for-the-badge" alt="História: roteiros mapeados até o capítulo 44">
+  <img src="https://img.shields.io/badge/PROJETO-1.0_BETA_4-292b35?style=for-the-badge" alt="Projeto em desenvolvimento, versão 1.0 Beta 4">
 </p>
 
 <p align="center">
@@ -26,103 +26,87 @@
 
 **Punishing: Gray Raven em português brasileiro, diretamente dentro do jogo.**
 
+O **PGR Localizer** é um instalador comunitário desenvolvido por **DridTy**. Ele aplica a tradução aos arquivos locais do cliente global da Steam. **As vozes e os vídeos permanecem originais.**
 
-O **PGR Localizer** é um instalador comunitário desenvolvido por **DridTy** para aplicar a tradução ao cliente global da Steam. O projeto abrange história, menus, descrições e interações dos personagens, com expansão e revisão contínuas.
+A **1.0 Beta 4** acrescenta legendas para 11 cenas de Lembranças, incluindo **Brilho Residual (Afterglow)**, **Estrelas e Bolhas** e as três **Cortinas**. Também traduz a aba **Quadrinhos Animados**, títulos selecionados e os botões e avisos do reprodutor.
 
-A tradução é aplicada aos arquivos locais do jogo. Não depende de reconhecimento de imagem nem de tradução em tempo real. **As vozes permanecem originais.**
+## 📖 O que está traduzido?
 
-## 📖 Até onde a história está traduzida?
-
-| Conteúdo | Cobertura desta primeira versão |
+| Conteúdo | Cobertura da 1.0 Beta 4 |
 | :--- | :--- |
-| Prólogo e história principal | Roteiros mapeados do prólogo e dos capítulos **1 a 29** |
-| Último capítulo incluído | **29 "Source Beacon"** |
-| Saudações e afinidade | Cobertura ampliada das falas dos personagens |
-| Interações e obtenção | Falas de toque, ociosidade, entrada do Constructo e outras interações |
-| Evolução e equipe | Falas de melhorias, equipamentos, formação e liderança com cobertura ampliada |
-| Missões e combate | Falas durante missões e de missão concluída com cobertura ampliada |
-| Interface e descrições | Menus, perfis resumidos, carregamentos e descrições selecionadas |
-| Capítulos 29 em diante | Ainda fora da cobertura anunciada |
+| Prólogo e história principal | Roteiros mapeados até o **capítulo 44**, incluindo a revisão da abertura desse capítulo |
+| Histórias extras | EX, ER, histórias ocultas e interlúdios mapeados |
+| Eventos e crossovers | Roteiros mapeados de **85 entradas** do Códice |
+| Afinidade e personagens | Histórias de afinidade, incluindo **Leia: Fortunaster**, além de saudações, interações e outras falas selecionadas |
+| Interface e missões | Menus, descrições, perfis resumidos, falas e objetivos selecionados |
+| Lembranças e cutscenes | **83 cenas** com legendas PT-BR separadas |
 
-**O capítulo 28 inclui seu último roteiro narrativo mapeado.** Isso não significa que todos os recursos associados a esses capítulos estejam traduzidos: vídeos, imagens com texto e algumas falas durante as missões podem continuar no idioma original.
-
-> **Tradução parcial em desenvolvimento.** Há textos produzidos com auxílio de tradução automática e ainda sujeitos a revisão. Eventos, histórias secundárias, perfis extensos e outros conteúdos não estão integralmente cobertos. Podem ocorrer termos inconsistentes, frases pouco naturais ou textos que ultrapassem o espaço da interface.
+> **Tradução em desenvolvimento, com revisão parcial.** Parte dos diálogos foi traduzida com auxílio de tradução automática. Ainda há falas, menus, cenas e artes em inglês. Nas cenas em que o inglês faz parte da imagem, a legenda em português aparece junto à original.
 
 ## 🖥️ Conheça o instalador
 
 <p align="center">
-  <img src="assets/previa-instalador.png" alt="Instalador PGR Localizer com arte em vermelho, azul e preto" width="1000">
+  <img src="assets/previa-instalador.png" alt="Prévia do PGR Localizer" width="1000">
 </p>
 
-- **Aplicar PT-BR:** verifica a compatibilidade, cria o backup e aplica a tradução em um único fluxo.
-- **Restaurar original:** recupera os arquivos originais preservados no backup.
-- **Atualizações:** consulta as novas versões publicadas no GitHub e oferece acesso à página de download.
-- **Abrir Steam:** facilita o acesso à plataforma para iniciar o jogo.
+O launcher da série **1.0 Beta** usa a arte completa como fundo, com painéis translúcidos. No instalador da beta:
 
-O pacote completo contém os recursos necessários à instalação, inclusive os arquivos adicionais que o instalador precisa criar. **Não depende de uma versão anterior da tradução.**
+- **Aplicar tradução** confere a compatibilidade, cria o backup e instala o pacote.
+- **Restaurar original** recupera os arquivos originais pelo backup.
+- **Atualizações** consulta lançamentos públicos estáveis e beta.
+- **Abrir PGR** inicia o jogo pela Steam.
 
 ## 🚀 Como instalar
 
-1. Atualize o **Punishing: Gray Raven** pela Steam.
-2. Abra o jogo e aguarde a conclusão do download dos recursos internos.
-3. **Feche o jogo.**
-4. Baixe o **ZIP completo** anexado à [versão mais recente](https://github.com/DridTy/PGR-Traducao-PT-BR/releases/latest).
-5. Extraia **todo o conteúdo** para uma pasta nova.
-6. Execute o instalador do **PGR Localizer** e selecione a pasta que contém `PGR.exe`.
-7. Clique em **Aplicar PT-BR** e aguarde a confirmação.
-8. Abra o jogo pela **Steam**, mantendo o idioma do cliente em **inglês** para utilizar os recursos substituídos pela tradução.
+1. Confira se a sua versão do jogo corresponde à indicada no lançamento. A **1.0 Beta 4** foi testada com o cliente global **Steam 4.9.1**, build **26260993**.
+2. Conclua o download dos recursos internos do jogo e **feche o PGR**.
+3. Baixe o **ZIP completo** anexado à [versão mais recente](https://github.com/DridTy/PGR-Traducao-PT-BR/releases/latest). Para encontrar a 1.0 Beta 4 caso ela esteja marcada como pré-lançamento, abra **Todas as versões** no topo.
+4. Extraia **todo o conteúdo** do ZIP para uma pasta nova, fora da instalação do jogo. Escolha o ZIP da tradução entre os anexos do lançamento. Os arquivos chamados **Source code** são gerados pelo GitHub.
+5. Abra o PGR Localizer e selecione a pasta que contém `PGR.exe`.
+6. Clique em **Aplicar tradução** e aguarde a confirmação. A verificação de compatibilidade é automática.
+7. Abra o jogo pela **Steam**, mantendo o idioma do cliente em **inglês** para usar os recursos substituídos pela tradução.
 
-**Não é necessário clicar em Verificar antes de aplicar:** a verificação já faz parte do processo de instalação.
-
-> Baixe o **pacote completo da tradução** anexado ao lançamento. Os arquivos de código-fonte gerados automaticamente pelo GitHub não são o instalador.
-
-Mantenha o executável, o manifesto, as artes e a pasta `payload/` juntos, conforme extraídos do ZIP. Não execute o programa diretamente de dentro do arquivo compactado.
+Mantenha o executável, o manifesto, a pasta `assets/` e a pasta `payload/` juntos após extrair o ZIP. O pacote funciona em instalação limpa.
 
 ## 📋 Requisitos
 
-- **Windows** com .NET Framework compatível com o instalador.
-- Cliente **global da Steam** instalado, atualizado e com os recursos internos baixados.
+- Windows com .NET Framework compatível com o instalador.
+- Cliente global do PGR pela Steam, na versão indicada no lançamento, com os recursos internos baixados.
 - Espaço livre para os arquivos da tradução e o backup dos originais.
-
-Não exige Python nem ferramentas de desenvolvimento. O instalador não baixa o jogo e não solicita sua senha ou seus dados de login.
 
 ## 🔄 Como atualizar a tradução
 
-1. Abra o instalador e clique em **Atualizações**.
-2. Se houver uma versão nova, utilize **Baixar v…** para abrir a página correspondente no GitHub.
-3. Baixe o novo **ZIP completo** e extraia tudo em outra pasta.
-4. Com o jogo fechado, execute o novo instalador e clique em **Aplicar PT-BR**.
+1. Abra o instalador da beta e clique em **Atualizações**.
+2. Se houver uma versão nova, clique em **Ver lançamento** para abrir a página no GitHub.
+3. Baixe e extraia o novo **ZIP completo** em outra pasta.
+4. Com o jogo fechado, execute o novo instalador e clique em **Aplicar tradução**.
 
-A consulta usa os lançamentos públicos deste repositório. **O download e a instalação são manuais.** Uma falha de conexão não impede o uso local do instalador.
+O download e a instalação são manuais. A migração direta da **Beta 3** para a **Beta 4**, a instalação limpa e a restauração foram testadas em uma cópia isolada do jogo.
 
 ## ↩️ Como restaurar o jogo
 
-Com o jogo fechado, abra o instalador, selecione a pasta correta e clique em **Restaurar original**.
-
-**Preserve o backup criado pelo instalador enquanto a tradução estiver instalada.** Ele contém os arquivos originais da sua instalação e é usado na restauração.
+Com o PGR fechado, abra o instalador, selecione a pasta do jogo e clique em **Restaurar original**. **Preserve o backup criado pelo instalador** enquanto a tradução estiver aplicada.
 
 ## 🛠️ E quando o jogo atualizar?
 
-Atualizações do PGR podem substituir os arquivos traduzidos ou alterar a estrutura dos recursos. Nesses casos, pode ser necessário baixar uma nova versão da tradução.
-
-Se o instalador informar incompatibilidade, confira se o jogo terminou de baixar os recursos e consulte os [lançamentos do projeto](https://github.com/DridTy/PGR-Traducao-PT-BR/releases). A verificação de compatibilidade evita aplicar o pacote a recursos que ele não reconhece.
+Uma atualização do PGR pode substituir os arquivos traduzidos ou alterar a estrutura dos recursos. Se o instalador informar incompatibilidade, confira se o jogo terminou de baixar os recursos e consulte os [lançamentos do projeto](https://github.com/DridTy/PGR-Traducao-PT-BR/releases) para encontrar uma versão compatível.
 
 ## 💬 Encontrou algum problema?
 
-Abra um [relato no GitHub](https://github.com/DridTy/PGR-Traducao-PT-BR/issues) e, quando possível, informe:
+Ao abrir um relato, inclua o máximo possível destas informações. [Relatar no GitHub](https://github.com/DridTy/PGR-Traducao-PT-BR/issues)
 
-- A versão do instalador e a mensagem exibida.
-- O capítulo, a missão, o personagem ou o menu afetado.
-- Uma captura da tela ou a frase exata que precisa de correção.
-- Se o problema ocorreu na primeira instalação, após atualizar a tradução ou após atualizar o jogo.
+- Versão do instalador e mensagem exibida.
+- Capítulo, missão, personagem, menu ou nome da cena em Lembranças.
+- Uma captura da tela ou a frase exata.
+- Se ocorreu na primeira instalação, após atualizar a tradução ou após atualizar o jogo.
 
 Sugestões de tradução e correções de termos também são bem-vindas.
 
 ## ❤️ Créditos
 
-**Projeto e identidade visual:** [DridTy](https://github.com/DridTy).
+Projeto e identidade visual por [DridTy](https://github.com/DridTy).
 
-O projeto de tradução russa foi utilizado como referência técnica para o estudo dos recursos do jogo. A tradução narrativa e as interações deste projeto partiram dos textos em inglês.
+O projeto de tradução russa serviu de referência técnica para estudar os recursos do jogo. A tradução narrativa e as interações partiram dos textos em inglês.
 
 Obrigado a todos que testam, enviam capturas e ajudam a melhorar a tradução.
 
